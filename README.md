@@ -8,11 +8,6 @@ variety of languages and technologies.
 
 # Categories
 
-* [devops](devops/README.md)
-* [javascript](javascript/README.md)
-* [rust](rust/README.md)
-* [typescript](typescript/README.md)
-* [unix](unix/README.md)
 * [vim](vim/README.md)
 
 # Contribute
