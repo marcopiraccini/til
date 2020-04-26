@@ -8,7 +8,6 @@ variety of languages and technologies.
 
 # Categories
 
-* [vim](vim/README.md)
 
 # Contribute
 
