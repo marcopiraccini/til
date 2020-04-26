@@ -5,14 +5,14 @@ variety of languages and technologies.
 
 # Last Article
 
-**[26/04/2020]:** [test (***postgres***)](postgres/test.md)
+**[26/04/2020]:** [test test test (***test***)](test/test-test-test.md)
 
 # Categories
 
 * [devops](devops/README.md)
 * [javascript](javascript/README.md)
-* [postgres](postgres/README.md)
 * [rust](rust/README.md)
+* [test](test/README.md)
 * [typescript](typescript/README.md)
 * [unix](unix/README.md)
 * [vim](vim/README.md)
