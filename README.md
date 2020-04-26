@@ -5,9 +5,11 @@ variety of languages and technologies.
 
 # Last Article
 
+**[26/04/2020]:** [Comment lines with Visual Mode (***vim***)](vim/comment-lines-with-visual-mode.md)
 
 # Categories
 
+* [vim](vim/README.md)
 
 # Contribute
 
