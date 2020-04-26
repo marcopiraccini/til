@@ -5,14 +5,12 @@ variety of languages and technologies.
 
 # Last Article
 
-**[26/04/2020]:** [test test test (***test***)](test/test-test-test.md)
 
 # Categories
 
 * [devops](devops/README.md)
 * [javascript](javascript/README.md)
 * [rust](rust/README.md)
-* [test](test/README.md)
 * [typescript](typescript/README.md)
 * [unix](unix/README.md)
 * [vim](vim/README.md)
@@ -33,8 +31,9 @@ It will:
 4. Once you're done writing the article, save it and close vim with the command `:wq`.
 5. It will update the main `README.md` file with updated "Last Article" and "Categories" sections.
 6. It will update the category `README.md` file to append a link to the new article you just wrote.
+7. Add and commit with the title as commit message
+8. Push to HEAD
 
-You're now ready to commit and push the new article!
 
 ## About
 

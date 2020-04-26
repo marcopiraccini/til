@@ -99,5 +99,5 @@ echo "Done updating $CATEGORY README file."
 echo "Article has been successfully created. Time to commit/push!"
 
 git add .
-
 git commit -a -m "$ARTICLE_TITLE" 
+git push -u origin HEAD
