@@ -5,10 +5,11 @@ variety of languages and technologies.
 
 # Last Article
 
-**[26/04/2020]:** [Comment lines with Visual Mode (***vim***)](vim/comment-lines-with-visual-mode.md)
+**[08/05/2020]:** [How to recover after an accidental `git reset --hard` (***git***)](git/how-to-recover-after-an-accidental-git-reset-hard.md)
 
 # Categories
 
+* [git](git/README.md)
 * [vim](vim/README.md)
 
 # Contribute
