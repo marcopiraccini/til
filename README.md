@@ -5,7 +5,7 @@ variety of languages and technologies.
 
 # Last Article
 
-**[08/05/2020]:** [How to recover after an accidental `git reset --hard` (***git***)](git/how-to-recover-after-an-accidental-git-reset-hard.md)
+**[12/05/2020]:** [Quickly squash your changes on the last commit (***git***)](git/quickly-squash-your-changes-on-the-last-commit.md)
 
 # Categories
 
