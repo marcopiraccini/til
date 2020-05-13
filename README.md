@@ -5,10 +5,11 @@ variety of languages and technologies.
 
 # Last Article
 
-**[12/05/2020]:** [Quickly squash your changes on the last commit (***git***)](git/quickly-squash-your-changes-on-the-last-commit.md)
+**[13/05/2020]:** [Docker cp to copy files in containers (***docker***)](docker/docker-cp-to-copy-files-in-containers.md)
 
 # Categories
 
+* [docker](docker/README.md)
 * [git](git/README.md)
 * [vim](vim/README.md)
 
