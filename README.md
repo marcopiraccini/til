@@ -5,7 +5,7 @@ variety of languages and technologies.
 
 # Last Article
 
-**[18/05/2020]:** [Change / Delete inside parenthesis (***vim***)](vim/change-delete-inside-parenthesis.md)
+**[26/05/2020]:** [Bookmarks (***vim***)](vim/bookmarks.md)
 
 # Categories
 
