@@ -5,7 +5,7 @@ variety of languages and technologies.
 
 # Last Article
 
-**[26/05/2020]:** [Bookmarks (***vim***)](vim/bookmarks.md)
+**[01/06/2020]:** [Change / Delete until (***vim***)](vim/change-delete-until.md)
 
 # Categories
 
