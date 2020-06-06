@@ -5,7 +5,7 @@ variety of languages and technologies.
 
 # Last Article
 
-**[01/06/2020]:** [Change / Delete until (***vim***)](vim/change-delete-until.md)
+**[06/06/2020]:** [Time-based undo (***vim***)](vim/time-based-undo.md)
 
 # Categories
 
