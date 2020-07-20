@@ -5,7 +5,7 @@ variety of languages and technologies.
 
 # Last Article
 
-**[06/06/2020]:** [Time-based undo (***vim***)](vim/time-based-undo.md)
+**[20/07/2020]:** [How to mirror a git repo in another (***git***)](git/how-to-mirror-a-git-repo-in-another.md)
 
 # Categories
 
