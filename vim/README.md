@@ -5,3 +5,4 @@
 * [Bookmarks](bookmarks.md)
 * [Change / Delete until](change-delete-until.md)
 * [Time-based undo](time-based-undo.md)
+* [Use grep inside VIM](use-grep-inside-vim.md)

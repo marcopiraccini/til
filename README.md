@@ -5,7 +5,7 @@ variety of languages and technologies.
 
 # Last Article
 
-**[20/07/2020]:** [How to mirror a git repo in another (***git***)](git/how-to-mirror-a-git-repo-in-another.md)
+**[31/12/2020]:** [Use grep inside VIM (***vim***)](vim/use-grep-inside-vim.md)
 
 # Categories
 
