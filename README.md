@@ -5,12 +5,13 @@ variety of languages and technologies.
 
 # Last Article
 
-**[31/12/2020]:** [Use grep inside VIM (***vim***)](vim/use-grep-inside-vim.md)
+**[04/01/2022]:** [Get system info with inxi (***linux***)](linux/get-system-info-with-inxi.md)
 
 # Categories
 
 * [docker](docker/README.md)
 * [git](git/README.md)
+* [linux](linux/README.md)
 * [vim](vim/README.md)
 
 # Contribute
