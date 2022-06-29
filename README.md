@@ -5,7 +5,7 @@ variety of languages and technologies.
 
 # Last Article
 
-**[04/01/2022]:** [Get system info with inxi (***linux***)](linux/get-system-info-with-inxi.md)
+**[29/06/2022]:** [How to upgrade docker-compose images (***docker***)](docker/how-to-upgrade-docker-compose-images.md)
 
 # Categories
 
